@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import {BrowserRouter} from 'react-router-dom'
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/Advance_Routing_App">
+  <BrowserRouter basename="/advance-routing-app">
     <App />
   </BrowserRouter>,
 )

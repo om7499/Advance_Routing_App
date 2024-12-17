@@ -8,7 +8,7 @@ export default defineConfig({
     outDir: 'build', // This makes sure Vite outputs to the 'build' folder
   },
   
-base: "/Advance_Routing_Appg/", // Add this line
+base: "/advance-routing-app/", // Add this line
 
 
 })
